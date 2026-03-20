@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AdarshGupta7678
-- 👀 I’m interested in travelling
-- 🌱 I’m currently learning B.Sc (Computer Science) 1st Year 
-- 📫 How to reach me 
+- 🌱 I’m currently studying MCA 1st Year 
 
 <!---
 AdarshGupta7678/AdarshGupta7678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
